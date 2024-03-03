@@ -397,7 +397,7 @@ header.smaller.header-light div#logo .logo {
 }
 
 header.smaller.scroll-light .social-icons i {
-    color: #333;
+    color: #16c784;
 }
 
 header.smaller.scroll-light #mainmenu li li a:hover {
@@ -2871,7 +2871,7 @@ footer:not(.footer-light) #form_subscribe.form-dark input[type=text] {
 
 .coming-soon .social-icons i:hover {
     background: none;
-    color: rgba(255, 255, 255, .2);
+    color: rgba(117, 88, 247, 0.2);
 }
 
 .arrow-up,
@@ -3309,7 +3309,7 @@ a.btn-slider {
     text-decoration: none;
     border: solid 1px rgba(255, 255, 255, .75);
     padding: 8px 30px 8px 30px;
-    x font-size: 10px;
+    font-size: 10px;
     font-weight: 600;
 }
 
@@ -6112,12 +6112,12 @@ i.font60 {
     list-style: none;
     color:#000000;
     font-weight: bold;
-    font-size: 24px;h1,
+    font-size: 24px;
 
 }
 
-.dark-scheme .ul-style-1{
-    color: #ffffff;
+.dark-scheme .ul-style-1 {
+    color:#fff;
 }
 
 .ul-style-1 li {
@@ -8028,7 +8028,7 @@ footer .social-icons {
     font-weight: 400;
     font-size: 13px;
     margin: 0;
-    padding: 0
+    padding: 0;
     color: rgba(255, 255, 255, .5);
 }
 
@@ -17573,7 +17573,7 @@ a.btn-slider:hover {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
 }
 
 .testi-slider .flex-control-paging li a {
@@ -19171,7 +19171,7 @@ img {
 }
 
 /*
-#purchase-now, #selector, #back-to-top{
+#selector, #back-to-top{
     display: none;
 }
 */
