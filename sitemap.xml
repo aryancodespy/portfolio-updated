@@ -1,67 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+              http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.aryanahmed.com/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>https://www.aryanahmed.com/</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/about</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/project</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/blog</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/contact</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/service</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/blog_pages/technical-seo</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/blog_pages/on-page-vs-off-page-seo</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/blog_pages/seo-aeo-geo-aio</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/blog_pages/the-ultimate-guide-to-generative-engine-optimization-(geo)</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.aryanahmed.com/blog_pages/how-to-create-backlinks</loc>
-  <lastmod>2026-03-18T20:32:36+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <!-- Core Pages -->
+  <url>
+    <loc>https://www.aryanahmed.com/about</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/project</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/blog</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/contact</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.70</priority>
+  </url>
 
+  <!-- Case Studies -->
+  <url>
+    <loc>https://www.aryanahmed.com/case_studies/lead-quality-improvement</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/case_studies/masters-student-acquisition</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/case_studies/lead-qualification-content</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/case_studies/multi-market-expansion</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://www.aryanahmed.com/blog_pages/SEO-AEO-GEO-AIO</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/blog_pages/on-page-vs-off-page-seo</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/blog_pages/technical-seo</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/blog_pages/how-to-create-backlinks</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.aryanahmed.com/blog_pages/The-Ultimate-Guide-to-Generative-Engine-Optimization-(GEO)</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.64</priority>
+  </url>
 
 </urlset>

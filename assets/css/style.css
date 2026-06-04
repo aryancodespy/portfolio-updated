@@ -26495,4 +26495,27 @@ body.color-primary-4th {
 .active-light.demo-modal-area .wrapper .tmp-modal-inner .demo-top .subtitle {
   color: #3d3d3d !important;
 }
+/* Reduce section gap for about page narrative sections */
+.about-story.tmp-section-gap {
+  padding: 70px 0;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .about-story.tmp-section-gap {
+    padding: 50px 0;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .about-story.tmp-section-gap {
+    padding: 40px 0;
+  }
+}
+
+/* Sticky sidebar for case study and blog detail pages */
+@media (min-width: 992px) {
+  .col-lg-4:has(.tmp-sidebar) {
+    align-self: flex-start;
+    position: sticky;
+    top: 100px;
+  }
+}
 /*# sourceMappingURL=../maps/style.css.map */

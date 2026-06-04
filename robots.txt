@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
 Disallow: /cgi-bin/
-Sitemap: aryanahmed.com/sitemap.xml
+
+Sitemap: https://www.aryanahmed.com/sitemap.xml
