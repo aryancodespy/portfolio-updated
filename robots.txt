@@ -1,4 +1,13 @@
 User-agent: *
+Allow: /
 Disallow: /cgi-bin/
 
+# Do not block assets, case studies, or blog pages
+# /assets/ — stylesheets, scripts, images
+# /case_studies/ — portfolio case study pages
+# /blog_pages/ — blog detail pages
+
 Sitemap: https://www.aryanahmed.com/sitemap.xml
+
+# AI crawler guidance
+# llms.txt: https://www.aryanahmed.com/llms.txt
